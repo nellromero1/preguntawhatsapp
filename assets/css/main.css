@@ -1,4 +1,4 @@
-@import url(fontawesome-all.min.css);
+
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400';
 
 /*
@@ -100,10 +100,10 @@ input, select, textarea {
 
 	body {
 		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #19210e 15%, #0b1f24 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #19210e 15%, #0b1f24 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #19210e 15%, #0b1f24 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #19210e 15%, #0b1f24 85%);
+		background-image: url(""), -moz-linear-gradient(45deg, #19210e 15%, #0b1f24 85%);
+		background-image: url(""), -webkit-linear-gradient(45deg, #19210e 15%, #0b1f24 85%);
+		background-image: url(""), -ms-linear-gradient(45deg, #19210e 15%, #0b1f24 85%);
+		background-image: url(""), linear-gradient(45deg, #19210e 15%, #0b1f24 85%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
